@@ -1,11 +1,11 @@
 {
-  "name": "babel-eslint",
-  "version": "5.0.0-beta10",
+  "name": "livescript-eslint",
+  "version": "0.1.0-dev.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/babel/babel-eslint.git"
+    "url": "https://github.com/AriaMinaei/livescript-eslint.git"
   },
   "dependencies": {
     "acorn-to-esprima": "^2.0.4",
@@ -25,9 +25,9 @@
   "author": "Sebastian McKenzie <sebmck@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/babel/babel-eslint/issues"
+    "url": "https://github.com/AriaMinaei/livescript-eslint/issues"
   },
-  "homepage": "https://github.com/babel/babel-eslint",
+  "homepage": "https://github.com/AriaMinaei/livescript-eslint",
   "devDependencies": {
     "eslint": "^1.10.2",
     "espree": "^2.2.5",
